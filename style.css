@@ -126,7 +126,7 @@ padding:7% 15%;
     line-height: 1.5;
 
 }
-@media(max-width:800px) {
+@media(max-width:740px) {
     .title-img{
         transform: rotate(0);
         position: relative;
